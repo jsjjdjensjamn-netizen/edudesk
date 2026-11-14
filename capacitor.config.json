@@ -1,0 +1,11 @@
+{
+  "appId": "com.edudesk.app",
+  "appName": "EduDesk",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
